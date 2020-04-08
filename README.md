@@ -34,3 +34,15 @@ Incorporate the optical flow field solution you done in the [Assignment 2](https
 ### Graphical User Interface (GUI) (Bonus Points 20)
 1. Modify the function `CMarker::markGUI()` and design your own gui. Be creative!
 2. Implement showing the current FPS in GUI
+
+#Procedure:
+```
+sudo pip3 install numpy
+```
+```
+pip3 install opencv-python
+```
+
+```
+python3 main.py
+```
